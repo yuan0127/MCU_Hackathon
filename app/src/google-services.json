@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791696677673",
+    "firebase_url": "https://hackathon-bb805.firebaseio.com",
+    "project_id": "hackathon-bb805",
+    "storage_bucket": "hackathon-bb805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791696677673:android:65d843ed610977ccab7538",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791696677673-dgkerovvem07finq70jmsosseq1o0igr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDXDhj2DtzPHIMFrjQiBCjEqnd6XZDdDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791696677673-dgkerovvem07finq70jmsosseq1o0igr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
